@@ -1,5 +1,5 @@
 Hi, I’m @valganus
-Valeriya Ganus, 20 y.o.
+Valeriya Ganus, 21 y.o.
 Moscow, Russia
 RSUH, Fundamental and Applied Linguistics
 currently exploring python, ML, Computational Linguistics
