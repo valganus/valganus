@@ -1,8 +1,8 @@
 Hi, I’m @valganus
-Valeriya Ganus
-Moscow, Russia
-RSUH, Fundamental and Applied Linguistics
-currently exploring python, ML, Computational Linguistics
+Valeriya Ganus.
+Moscow, Russia.
+RSUH, Fundamental and Applied Linguistics.
+Python,SQL, ML, NLP, Data Science, Computational Linguistics
 valeryaganus@icloud.com
 
 <!---
